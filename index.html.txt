@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONLINE SANSKRIT TUTION</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background: #6200ea;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background: #6200ea;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+        .btn:hover {
+            background: #3700b3;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ONLINE SANSKRIT TUTION</h1>
+    </header>
+    <div class="container">
+        <h2>About My Classes</h2>
+        <p>I offer online Sanskrit tuition for all levels(CBSE,ICSE,IGCSEIB,NIOS, including postgraduate students. My classes are designed to cater to different syllabi and individual learning needs.</p>
+
+        <h2>What You Will Learn</h2>
+        <ul>
+            <li>Sanskrit grammar and linguistics</li>
+            <li>Classical literature and texts</li>
+            <li>Preparation for exams and academic writing</li>
+            <li>Customized lessons based on your goals</li>
+        </ul>
+
+        <h2>Contact and Payment</h2>
+        <p>If you're interested in enrolling, please contact me through email or phone to discuss the class schedule and fees.</p>
+        <p><b>Payment:</b> Payments can be made via Google Pay. Use the QR code below to pay securely:</p>
+        <img src="jkrmalayalam@okicici" alt="Google Pay QR Code" style="max-width: 100%; height: auto;">
+
+        <a href="https://gpay.app.goo.gl/" class="btn">Pay Now</a>
+
+        <h2>Get in Touch</h2>
+        <p>Email: <a href="mailto:jkrsanskrit@gmail.com">jkrsanskrit@gmail.com</a></p>
+        <p>Phone: +91-7012128339</p>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2025 Online Sanskrit Tuition. All rights reserved.</p>
+    </footer>
+</body>
+</html>
